@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_radio_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-864.000000, -64.000000)">
+            <g id="ic_radio_check" transform="translate(867.000000, 67.000000)">
+                <circle id="Oval" stroke="#EFA91F" stroke-width="2" fill="#FFFFFF" cx="9" cy="9" r="8"></circle>
+                <circle id="Oval-2" fill="#EFA91F" cx="9" cy="9" r="4"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_nav_dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -96.000000)" fill="#58585A" fill-rule="nonzero">
+            <path d="M4.1691366,105.757868 C3.91536306,105.468922 3.951334,105.034927 4.24898442,104.788574 L8.19907711,100.499786 L4.24898442,96.2109978 C3.951334,95.9650288 3.91536306,95.5310336 4.1691366,95.2417036 C4.42251488,94.9527571 4.8699787,94.917838 5.16723375,95.1641907 L9.75096979,99.9763824 C9.90908418,100.107233 10,100.298329 10,100.499786 C10,100.701626 9.90908418,100.892722 9.75096979,101.023573 L5.16723375,105.835765 C5.03402231,105.945895 4.87076922,106 4.70870203,106 C4.50829201,106 4.30906788,105.917882 4.1691366,105.757868 Z" id="ic_nav_dropdown" transform="translate(7.000000, 100.500000) rotate(-270.000000) translate(-7.000000, -100.500000) "></path>
+        </g>
+    </g>
+</svg>

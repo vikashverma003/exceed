@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="96px" viewBox="0 0 94 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_slider_arrow_right</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="28" cy="28" r="28"></circle>
+        <filter x="-53.6%" y="-53.6%" width="207.1%" height="207.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -688.000000)">
+            <g id="ic_slider_arrow-copy" transform="translate(19.000000, 708.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#EFA91F" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M34.8376429,27.0444176 L26.2821297,18.3957573 C25.7601364,17.8680809 24.9135684,17.8680809 24.3915751,18.3957573 C23.869475,18.9235418 23.869475,19.7791105 24.3915751,20.306895 L31.9269109,28.0479126 L24.391789,35.693078 C23.8696888,36.2208625 23.8696888,37.0764312 24.391789,37.6042157 C24.6527322,37.8678917 24.9949527,38 25.3370663,38 C25.6791799,38 26.0212935,37.8678917 26.2823436,37.6042157 L34.8376429,28.9555553 C35.3597431,28.4277708 35.3597431,27.5722021 34.8376429,27.0444176 Z" id="Path" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

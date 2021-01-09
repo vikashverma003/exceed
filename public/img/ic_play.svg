@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-816.000000, -64.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M836.749161,75.5294117 L819.910452,64.100563 C819.732194,63.9799887 819.501097,63.9674169 819.310645,64.0651336 C819.119613,64.1639931 819,64.3582836 819,64.5708601 L819,87.4285576 C819,87.6411342 819.119613,87.835996 819.310645,87.9348556 C819.395419,87.9782852 819.488323,88 819.580645,88 C819.696194,88 819.811161,87.9657135 819.910452,87.8988547 L836.749161,76.470006 C836.906516,76.3631462 837,76.1877134 837,75.9997089 C837,75.8117043 836.905935,75.6362715 836.749161,75.5294117 Z" id="ic_play"></path>
+        </g>
+    </g>
+</svg>

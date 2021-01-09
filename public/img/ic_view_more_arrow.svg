@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="14px" viewBox="0 0 9 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_view_more_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-16.000000, -96.000000)" fill="#EFA91F" fill-rule="nonzero">
+            <path d="M17.197326,108.735856 C16.9012569,108.420642 16.943223,107.947193 17.2904818,107.678444 L21.8989233,102.999767 L17.2904818,98.3210885 C16.943223,98.0527587 16.9012569,97.5793094 17.197326,97.2636766 C17.492934,96.9484623 18.0149752,96.9103688 18.3617727,97.1791171 L23.7094648,102.428781 C23.8939315,102.571527 24,102.779996 24,102.999767 C24,103.219956 23.8939315,103.428424 23.7094648,103.571171 L18.3617727,108.820835 C18.2063594,108.940976 18.0158974,109 17.826819,109 C17.5930073,109 17.3605792,108.910417 17.197326,108.735856 Z" id="ic_view_more_arrow" transform="translate(20.500000, 103.000000) rotate(-360.000000) translate(-20.500000, -103.000000) "></path>
+        </g>
+    </g>
+</svg>

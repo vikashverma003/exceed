@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_input_dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-800.000000, -128.000000)" fill-rule="nonzero" stroke="#333D47" stroke-width="1.5">
+            <polyline id="ic_input_dropdown" transform="translate(808.430556, 136.000000) scale(-1, -1) rotate(-269.000000) translate(-808.430556, -136.000000) " points="810.861111 141 806 136 806 136 810.861111 131"></polyline>
+        </g>
+    </g>
+</svg>

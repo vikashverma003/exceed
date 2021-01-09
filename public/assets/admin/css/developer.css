@@ -1,0 +1,217 @@
+.buttons-csv,
+.buttons-excel,
+.buttons-reset {
+    padding: 5px !important;
+}
+
+.dataTables_scrollBody {
+    overflow: inherit !important;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.first-input {
+    padding-top: 10px;
+}
+
+.control-label {
+    /*padding-left: 13px;*/
+    padding-left: 0px;
+}
+
+.form-horizontal .form-group {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.md-radio {
+    margin-left: 10px;
+}
+
+.required {
+    color: red;
+}
+
+.form-actions {
+    margin-top: 10px !important;
+}
+
+.margin-top-35 {
+    margin-top: 35px;
+}
+
+.margin-top-2 {
+    margin-top: 2px !important;
+}
+
+.tabbable-custom>.nav-tabs>li.active:before {
+    background: #F3565D;
+    width: 100%;
+    height: 3px;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    float: left;
+    z-index: 9
+}
+
+.tabbable-custom>.nav-tabs>li.active {
+    border-top: 0;
+}
+
+.mdl-button {
+    min-width: 0px !important;
+}
+
+.dataTables_empty {
+    text-align: center !important;
+}
+
+.modal_description {
+    max-height: 300px;
+    overflow-y: auto;
+    word-break: break-word;
+}
+
+.table-td {
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.tabbable-custom>.nav-tabs>li {
+    border-top: 0;
+}
+
+.tabbable-custom>.nav>li>a {
+    padding: 10px 10px;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.form-md-checkboxes>label {
+    font-size: 14px !important;
+    color: #272626 !important;
+}
+
+.vertical-tab-screen .nav.nav-tabs {
+    width: 18%; padding: 10px; background: #fff;
+    float: left;
+}
+
+.vertical-tab-screen .tab-content {
+    width: 82%;
+    float: left;
+    padding-left: 15px
+}
+
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li {
+    width: 100%;
+    border-bottom: 1px solid #efefef;
+    background: #fff;
+    margin-bottom: 0;
+    border-left: 1px solid #efefef;
+    border-right: 1px solid #efefef;
+}
+
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li a {
+    padding: 8px 8px;
+    color: #696565;
+}
+
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li a:hover {
+    background: #fff;
+}
+
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li:hover:after {
+    background: #669bd2;
+    width: 3px;
+    height: 100%;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    float: left;
+    z-index: 9
+}
+
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li.active a {
+    background: #f2f6f9;
+    color: #669bd2;
+}
+
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li.active:before {
+    background: #5b9bd1; display: none;
+}
+.vertical-tab-screen.tabbable-custom>.nav-tabs>li.active:after {
+    background: #669bd2;
+    width: 3px;
+    height: 100%;
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    float: left;
+    z-index: 9
+}
+.get_term_page {
+    color: #1D9DDF !important;
+}
+
+td {
+    text-align: center !important;
+}
+
+th {
+    text-align: center !important;
+}
+
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc_disabled:before {
+    right: 0 em !important;
+    content: "" !important;
+}
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:after {
+    right: 0 em !important;
+    content: "" !important;
+}
+
+.page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu>li>a,
+.page-sidebar .page-sidebar-menu>li>a {
+    border-top: 0px !important;
+    color: #b4bcc8;
+}
+
+.breadcrumb a {
+    color: #5b9bd1 !important;
+}
+
+.title-text {
+    background-color: #5B9BD1 !important;
+    color: #fdfdfd !important;
+}
+.mdl-button--raised.mdl-button--colored {
+    background: #eee !important;
+    color: #23527c !important;
+    border-color: #ddd !important;
+}
+.swal2-cancel {
+    margin-right: 5px;
+}
+.submenu_custom_css {
+    margin-left: 10px;
+}

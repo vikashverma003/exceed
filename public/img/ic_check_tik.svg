@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_check_tik</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-768.000000, -128.000000)" fill-rule="nonzero">
+            <g id="ic_check_tik" transform="translate(768.000000, 128.000000)">
+                <path d="M8,-5.32907052e-15 C3.5819306,-5.32907052e-15 -5.32907052e-15,3.5817806 -5.32907052e-15,8 C-5.32907052e-15,12.4182194 3.5819306,16 8,16 C12.4185569,16 16,12.4182194 16,8 C16,3.5817806 12.4184069,-5.32907052e-15 8,-5.32907052e-15 Z" id="Path" fill="#EFA91F"></path>
+                <polygon id="Path" fill="#FFFFFF" points="6.53247271 12.1094439 3.0099047 8.58702592 4.18399404 7.41293658 6.53247271 9.76126525 11.816006 4.477582 12.9900953 5.65167133"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

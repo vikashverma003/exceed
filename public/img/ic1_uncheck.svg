@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_uncheck</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-912.000000, -64.000000)" fill-rule="nonzero" stroke="#DFDFDF">
+            <path d="M924,67 C919.029672,67 915,71.0295032 915,76 C915,80.9704968 919.029672,85 924,85 C928.970877,85 933,80.9704968 933,76 C933,71.0295032 928.970708,67 924,67 Z" id="ic_uncheck"></path>
+        </g>
+    </g>
+</svg>

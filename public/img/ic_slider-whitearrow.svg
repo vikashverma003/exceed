@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="96px" viewBox="0 0 94 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_slider_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="28" cy="28" r="28"></circle>
+        <filter x="-53.6%" y="-53.6%" width="207.1%" height="207.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.11 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-768.000000, -320.000000)">
+            <g id="ic_slider_arrow" transform="translate(787.000000, 340.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <path d="M37.6867399,27.2355341 L30.8423293,20.3166058 C30.4247347,19.8944647 29.7474803,19.8944647 29.3298857,20.3166058 C28.9122056,20.7388334 28.9122056,21.4232884 29.3298857,21.845516 L34.3486353,26.9189066 L16.0694391,26.9189066 C15.4788521,26.9189066 15,27.4029722 15,27.9999892 C15,28.5969197 15.4788521,29.0810717 16.0694391,29.0810717 L34.3486353,29.0810717 L29.3300568,34.1544624 C28.9123767,34.57669 28.9123767,35.2611449 29.3300568,35.6833725 C29.5388113,35.8943134 29.8125878,36 30.0862786,36 C30.3599695,36 30.6336604,35.8943134 30.8425004,35.6833725 L37.6867399,28.7644443 C38.10442,28.3422167 38.10442,27.6577617 37.6867399,27.2355341 Z" id="Path" fill="#1F1E22" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

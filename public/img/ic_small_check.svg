@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_small_check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-32.000000, -96.000000)" fill-rule="nonzero">
+            <g id="ic_small_check" transform="translate(32.000000, 96.000000)">
+                <g id="Group-7-Copy-2">
+                    <path d="M8,0 C3.5819306,0 0,3.5817806 0,8 C0,12.4182194 3.5819306,16 8,16 C12.4185569,16 16,12.4182194 16,8 C16,3.5817806 12.4184069,0 8,0 Z" id="Path" fill="#EFA91F"></path>
+                    <polygon id="Path" fill="#FFFFFF" points="6.90177288 11.2964844 4.078125 8.34262129 5.0192608 7.35804219 6.90177288 9.32732618 11.1369892 4.89648438 12.078125 5.88106347"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

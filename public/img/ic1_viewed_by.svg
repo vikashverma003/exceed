@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_viewed_by</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Artboard" transform="translate(-792.000000, -64.000000)" stroke="#BABABA" stroke-width="1.05882353">
+            <g id="ic_viewed_by" transform="translate(797.000000, 68.000000)">
+                <g id="Group">
+                    <line x1="2.61904762" y1="7.05882353" x2="2.61904762" y2="9.41176471" id="Path"></line>
+                    <path d="M11.5175368,6.16545455 L5.15903102,5.09090909 L5.15903102,1.27272727 C5.15903102,0.569818182 4.58158805,0 3.86927327,0 L3.86927327,0 C3.15695848,0 2.57951551,0.569818182 2.57951551,1.27272727 L2.57951551,7.27272727 L1.47400886,7.27272727 C0.659987469,7.27272727 0,7.924 0,8.72727273 L0,10.8330909 C0,11.824 0.341601554,12.7854545 0.969160828,13.5592727 L2.57951551,16 L12.1605731,16 L13.307352,8.644 C13.4893921,7.476 12.6960068,6.37709091 11.5175368,6.16545455 Z" id="Path"></path>
+                    <line x1="6.42857143" y1="9.41176471" x2="6.42857143" y2="13.1764706" id="Path"></line>
+                    <line x1="9.28571429" y1="9.41176471" x2="9.28571429" y2="13.1764706" id="Path"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

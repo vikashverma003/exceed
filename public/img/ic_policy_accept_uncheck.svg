@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>ic_policy_accept_uncheck</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-960.000000, -64.000000)">
+            <rect id="ic_policy_accept_check" stroke="#EFA91F" stroke-width="2" x="964" y="68" width="16" height="16" rx="1.1"></rect>
+            <polygon id="Path" fill="#EFA91F" fill-rule="nonzero" points="970.522568 79.6318619 967 76.1094439 968.174089 74.9353546 970.522568 77.2836833 975.806101 72 976.980191 73.1740893"></polygon>
+        </g>
+    </g>
+</svg>
